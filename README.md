@@ -12,13 +12,21 @@ Veja o exemplo a seguir do layout do projeto!
 
 ## Layout
 
-Login Page 1             |  Login Page 2
+Login Page            |  Food's Page    
 :-------------------------:|:-------------------------:
-![Screeshot](screenshot_1.png)  |  ![Screenshot](screenshot_2.png)
+![Screeshot](./img/login_1.png)  |  ![Screenshot](./img/food-principal.png)
 
-Wallet Page 1             |  Wallet Page 2
+Drink's Page           |  Details Page
 :-------------------------:|:-------------------------:
-![Screeshot](screenshot_3.png)  |  ![Screenshot](screenshot_4.png)
+![Screeshot](./img/drink-principle.png)  |  ![Screenshot](./img/drink-detail.png)
+
+Progress Page           |  Favorite Page
+:-------------------------:|:-------------------------:
+![Screeshot](./img/page-progrees.png)  |  ![Screenshot](./img/favorite-page.png)
+
+Explore Nationalities          |  Explore Ingredients
+:-------------------------:|:-------------------------:
+![Screeshot](./img/explore-nationa.png)  |  ![Screenshot](./img/explore-ingredientes.png)
 
  ## Link para o deploy:
  
