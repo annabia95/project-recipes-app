@@ -6,7 +6,7 @@ Neste projeto desenvolvi um app de receitas, utilizando o que há de mais modern
 
 Nele será possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
 
-A base de dados serão duas APIs distintas, uma para comidas e outra para bebidas.
+A base de dados foram duas APIs distintas, uma para comidas e outra para bebidas.
 
 Veja o exemplo a seguir do layout do projeto!
 
